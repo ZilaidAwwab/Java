@@ -28,6 +28,10 @@ java -cp classes <class-fully-qualified-name>
 ### Example
 
 ```
-$ javac -d classes -sourcepath src\main\java src\main\java\com\zilaidawwab\javalang\Main.java
-$ java -cp classes com.zilaidawwab.javalang.Main
+$ javac -d classes -sourcepath src/main/java src/main/java/com/zilaidawwab/javalang/HelloWorld.java
+$ java -cp classes com.zilaidawwab.javalang.HelloWorld
 ```
+
+## Basics
+
+- [Hello World](src/main/java/com/zilaidawwab/javalang/basics/helloworld/HelloWorld.java)
