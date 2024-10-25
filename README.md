@@ -32,6 +32,14 @@ $ javac -d classes -sourcepath src/main/java src/main/java/com/zilaidawwab/javal
 $ java -cp classes com.zilaidawwab.javalang.HelloWorld
 ```
 
-## Basics
+# Basics
+
+## Hello World
+The Basic Hello World Program, as a religious practice to start learning any programming language
 
 - [Hello World](src/main/java/com/zilaidawwab/javalang/basics/helloworld/HelloWorld.java)
+
+## Variables
+Java is a stronly typed language, so every variable has to be on some primitive or user defined data type
+
+- [Variables](src/main/java/com/zilaidawwab/javalang/basics/variables/Variables.java)
