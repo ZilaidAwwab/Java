@@ -57,3 +57,12 @@ These include if, for, and while loops, switch statements which control the flow
 
 - [If Statements](src/main/java/com/zilaidawwab/javalang/basics/controlflow/IfSample.java)
 - [For Loops](src/main/java/com/zilaidawwab/javalang/basics/controlflow/ForSample.java)
+
+
+### Additional Concepts
+These are some concepts that are internal java specifics 
+
+- [Dynamic Initialization](src/main/java/com/zilaidawwab/javalang/basics/additionalconcepts/DynamicInitialization.java)
+- [Variable Scope](src/main/java/com/zilaidawwab/javalang/basics/additionalconcepts/VariableScope.java)
+- [Type Conversion](src/main/java/com/zilaidawwab/javalang/basics/additionalconcepts/TypeConversion.java)
+- [Type Promotions](src/main/java/com/zilaidawwab/javalang/basics/additionalconcepts/TypePromotion.java)
