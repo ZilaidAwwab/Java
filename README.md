@@ -51,3 +51,9 @@ There are 8 primitive data types in java language. Namely byte, short, int, long
 - [Double Data Type](src/main/java/com/zilaidawwab/javalang/basics/datatypes/DoubleDataType.java)
 - [Character Data Type](src/main/java/com/zilaidawwab/javalang/basics/datatypes/CharDataType.java)
 - [Boolean Data Type](src/main/java/com/zilaidawwab/javalang/basics/datatypes/BooleanDataType.java)
+
+### Control Statements
+These include if, for, and while loops, switch statements which control the flow of program
+
+- [If Statements](src/main/java/com/zilaidawwab/javalang/basics/controlflow/IfSample.java)
+- [For Loops](src/main/java/com/zilaidawwab/javalang/basics/controlflow/ForSample.java)
