@@ -9,7 +9,7 @@ Whether you're new to Java or looking to deepen your knowledge, this resource of
 ### Create a classes folder
 
 ```
-cd Algorithms
+cd Java
 mkdir classes
 ```
 
@@ -28,18 +28,26 @@ java -cp classes <class-fully-qualified-name>
 ### Example
 
 ```
-$ javac -d classes -sourcepath src/main/java src/main/java/com/zilaidawwab/javalang/HelloWorld.java
-$ java -cp classes com.zilaidawwab.javalang.HelloWorld
+$ javac -d classes -sourcepath src/main/java src/main/java/com/zilaidawwab/javalang/basics/helloworld/HelloWorld.java
+$ java -cp classes com.zilaidawwab.javalang.basics.helloworld.HelloWorld
 ```
 
-# Basics
+## Basics
 
-## Hello World
+### Hello World
 The Basic Hello World Program, as a religious practice to start learning any programming language
 
 - [Hello World](src/main/java/com/zilaidawwab/javalang/basics/helloworld/HelloWorld.java)
 
-## Variables
+### Variables
 Java is a stronly typed language, so every variable has to be on some primitive or user defined data type
 
 - [Variables](src/main/java/com/zilaidawwab/javalang/basics/variables/Variables.java)
+
+### Primitive Data Types
+There are 8 primitive data types in java language. Namely byte, short, int, long, float, double, char, and boolean
+
+- [Long Data Type](src/main/java/com/zilaidawwab/javalang/basics/datatypes/LongDataType.java)
+- [Double Data Type](src/main/java/com/zilaidawwab/javalang/basics/datatypes/DoubleDataType.java)
+- [Character Data Type](src/main/java/com/zilaidawwab/javalang/basics/datatypes/CharDataType.java)
+- [Boolean Data Type](src/main/java/com/zilaidawwab/javalang/basics/datatypes/BooleanDataType.java)
