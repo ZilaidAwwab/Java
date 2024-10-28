@@ -68,10 +68,19 @@ These are some concepts that are internal java specifics
 - [Type Inference](src/main/java/com/zilaidawwab/javalang/basics/additionalconcepts/TypeInference.java)
 
 ### Arrays
-Here all about arrays in Java is demonstrated, from one to multi-dimensional arrays 
+Here all about arrays in Java is demonstrated, from one to multidimensional arrays 
 
 - [Array](src/main/java/com/zilaidawwab/javalang/basics/arrays/Array.java)
 - [Two Dimensional Array](src/main/java/com/zilaidawwab/javalang/basics/arrays/TwoDArray.java)
 - [Two Dimensional Array (Extended)](src/main/java/com/zilaidawwab/javalang/basics/arrays/TwoDAgain.java)
 - [Matrix](src/main/java/com/zilaidawwab/javalang/basics/arrays/Matrix.java)
 - [Three Dimensional Array](src/main/java/com/zilaidawwab/javalang/basics/arrays/ThreeDArray.java)
+
+### Operators
+This covers all the operators available in Java, including Arithmetic, Bitwise, Relational and Logical Operators
+
+#### Arithmetic Operators
+- [Basic Math](src/main/java/com/zilaidawwab/javalang/basics/operators/arithmetic/BasicMath.java)
+- [Modulus](src/main/java/com/zilaidawwab/javalang/basics/operators/arithmetic/Modulus.java)
+- [Compound Assignment Operator](src/main/java/com/zilaidawwab/javalang/basics/operators/arithmetic/OpEquals.java)
+- [Increment Decrement Operator](src/main/java/com/zilaidawwab/javalang/basics/operators/arithmetic/IncDec.java)
