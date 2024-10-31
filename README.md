@@ -65,6 +65,7 @@ These are some concepts that are internal java specifics
 - [Variable Scope](src/main/java/com/zilaidawwab/javalang/basics/additionalconcepts/VariableScope.java)
 - [Type Conversion](src/main/java/com/zilaidawwab/javalang/basics/additionalconcepts/TypeConversion.java)
 - [Type Promotions](src/main/java/com/zilaidawwab/javalang/basics/additionalconcepts/TypePromotion.java)
+- [Type Inference](src/main/java/com/zilaidawwab/javalang/basics/additionalconcepts/TypeInference.java)
 
 ### Arrays
 Here all about arrays in Java is demonstrated, from one to multi-dimensional arrays 
