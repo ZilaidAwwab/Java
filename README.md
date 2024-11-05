@@ -99,3 +99,6 @@ This covers all the operators available in Java, including Arithmetic, Bitwise, 
 
 #### Boolean Logical Operators
 - [Boolean Logical Operators](src/main/java/com/zilaidawwab/javalang/basics/operators/booleanlogical/BooleanLogicalOps.java)
+
+#### Short Circuit Operators
+- [Short Circuit Operators](src/main/java/com/zilaidawwab/javalang/basics/operators/ShortCircuit/ShortCircuitLogicalOperator.java)
