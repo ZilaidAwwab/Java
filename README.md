@@ -84,3 +84,12 @@ This covers all the operators available in Java, including Arithmetic, Bitwise, 
 - [Modulus](src/main/java/com/zilaidawwab/javalang/basics/operators/arithmetic/Modulus.java)
 - [Compound Assignment Operator](src/main/java/com/zilaidawwab/javalang/basics/operators/arithmetic/OpEquals.java)
 - [Increment Decrement Operator](src/main/java/com/zilaidawwab/javalang/basics/operators/arithmetic/IncDec.java)
+
+#### Bitwise Operators
+- [Bitwise Logical Operators](src/main/java/com/zilaidawwab/javalang/basics/operators/bitwise/BitLogic.java)
+- [Left Shift](src/main/java/com/zilaidawwab/javalang/basics/operators/bitwise/LeftShift.java)
+- [Multiply By 2 (Left Shift)](src/main/java/com/zilaidawwab/javalang/basics/operators/bitwise/MultByTwo.java)
+- [Right Shift](src/main/java/com/zilaidawwab/javalang/basics/operators/bitwise/RightShift.java)
+- [HexByte (Masking Sign Extension)](src/main/java/com/zilaidawwab/javalang/basics/operators/bitwise/HexByte.java)
+- [Unsigned Shift (Right Shift Extension)](src/main/java/com/zilaidawwab/javalang/basics/operators/bitwise/ByteUnShift.java)
+- [Compound Assigment (In Bitwise Operators)](src/main/java/com/zilaidawwab/javalang/basics/operators/bitwise/OpBitEquals.java)
