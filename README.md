@@ -93,3 +93,6 @@ This covers all the operators available in Java, including Arithmetic, Bitwise, 
 - [HexByte (Masking Sign Extension)](src/main/java/com/zilaidawwab/javalang/basics/operators/bitwise/HexByte.java)
 - [Unsigned Shift (Right Shift Extension)](src/main/java/com/zilaidawwab/javalang/basics/operators/bitwise/ByteUnShift.java)
 - [Compound Assigment (In Bitwise Operators)](src/main/java/com/zilaidawwab/javalang/basics/operators/bitwise/OpBitEquals.java)
+
+#### Relational Operators
+- [Relational Operators](src/main/java/com/zilaidawwab/javalang/basics/operators/relational/RelationalOps.java)
