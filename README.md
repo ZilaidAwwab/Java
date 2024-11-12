@@ -86,7 +86,7 @@ This covers all the operators available in Java, including Arithmetic, Bitwise, 
 - [Increment Decrement Operator](src/main/java/com/zilaidawwab/javalang/basics/operators/arithmetic/IncDec.java)
 
 #### Bitwise Operators
-- [Bitwise Logical Operators](src/main/java/com/zilaidawwab/javalang/basics/operators/bitwise/BitLogic.java)
+- [Bitwise Logical Operator](src/main/java/com/zilaidawwab/javalang/basics/operators/bitwise/BitLogic.java)
 - [Left Shift](src/main/java/com/zilaidawwab/javalang/basics/operators/bitwise/LeftShift.java)
 - [Multiply By 2 (Left Shift)](src/main/java/com/zilaidawwab/javalang/basics/operators/bitwise/MultByTwo.java)
 - [Right Shift](src/main/java/com/zilaidawwab/javalang/basics/operators/bitwise/RightShift.java)
@@ -94,11 +94,14 @@ This covers all the operators available in Java, including Arithmetic, Bitwise, 
 - [Unsigned Shift (Right Shift Extension)](src/main/java/com/zilaidawwab/javalang/basics/operators/bitwise/ByteUnShift.java)
 - [Compound Assigment (In Bitwise Operators)](src/main/java/com/zilaidawwab/javalang/basics/operators/bitwise/OpBitEquals.java)
 
-#### Relational Operators
-- [Relational Operators](src/main/java/com/zilaidawwab/javalang/basics/operators/relational/RelationalOps.java)
+#### Relational Operator
+- [Relational Operator](src/main/java/com/zilaidawwab/javalang/basics/operators/relational/RelationalOps.java)
 
-#### Boolean Logical Operators
-- [Boolean Logical Operators](src/main/java/com/zilaidawwab/javalang/basics/operators/booleanlogical/BooleanLogicalOps.java)
+#### Boolean Logical Operator
+- [Boolean Logical Operator](src/main/java/com/zilaidawwab/javalang/basics/operators/booleanlogical/BooleanLogicalOps.java)
 
-#### Short Circuit Operators
-- [Short Circuit Operators](src/main/java/com/zilaidawwab/javalang/basics/operators/ShortCircuit/ShortCircuitLogicalOperator.java)
+#### Short Circuit Operator
+- [Short Circuit Operator](src/main/java/com/zilaidawwab/javalang/basics/operators/ShortCircuit/ShortCircuitLogicalOperator.java)
+
+#### Ternary Operator
+- [Ternary Operator](src/main/java/com/zilaidawwab/javalang/basics/operators/Ternary/TernaryOperator.java)
