@@ -105,3 +105,12 @@ This covers all the operators available in Java, including Arithmetic, Bitwise, 
 
 #### Ternary Operator
 - [Ternary Operator](src/main/java/com/zilaidawwab/javalang/basics/operators/Ternary/TernaryOperator.java)
+
+### Control Statements
+Here all types of Control Statement available in Java are covered, including if-else, if-else-if else, nested ifs, switch statements.
+
+#### If-Else Statements
+- [If-Else Statements](src/main/java/com/zilaidawwab/javalang/basics/controlstatements/IfElseStatement.java)
+
+#### Switch Statements
+- [Switch Statements](src/main/java/com/zilaidawwab/javalang/basics/controlstatements/SwitchStatement.java)
