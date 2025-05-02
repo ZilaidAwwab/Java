@@ -114,3 +114,21 @@ Here all types of Control Statement available in Java are covered, including if-
 
 #### Switch Statements
 - [Switch Statements](src/main/java/com/zilaidawwab/javalang/basics/controlstatements/SwitchStatement.java)
+
+### Iteration Statements
+Java’s iteration statements are for, for-each, while, and do-while. These statements create what we commonly call loops. A loop repeatedly executes the same set of instructions until a termination condition is met.
+
+#### While
+- [While Loop](src/main/java/com/zilaidawwab/javalang/basics/iterationstatements/WhileLoop.java)
+ 
+#### Do-While
+- [Do-While Loop](src/main/java/com/zilaidawwab/javalang/basics/iterationstatements/DoWhileLoop.java)
+- [Do-While Loop Example](src/main/java/com/zilaidawwab/javalang/basics/iterationstatements/Menu.java)
+
+#### For
+- [For Loop](src/main/java/com/zilaidawwab/javalang/basics/iterationstatements/ForLoop.java)
+
+#### For-Each
+- [For Each Loop](src/main/java/com/zilaidawwab/javalang/basics/iterationstatements/ForEachLoop.java)
+- [For Each Loop (For Multi-dimensional Arrays)](src/main/java/com/zilaidawwab/javalang/basics/iterationstatements/ForEachLoopMultiDim.java)
+- [Type Inference in For](src/main/java/com/zilaidawwab/javalang/basics/iterationstatements/TypeInferenceinFor.java)
