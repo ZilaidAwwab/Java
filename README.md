@@ -132,3 +132,15 @@ Java’s iteration statements are for, for-each, while, and do-while. These stat
 - [For Each Loop](src/main/java/com/zilaidawwab/javalang/basics/iterationstatements/ForEachLoop.java)
 - [For Each Loop (For Multi-dimensional Arrays)](src/main/java/com/zilaidawwab/javalang/basics/iterationstatements/ForEachLoopMultiDim.java)
 - [Type Inference in For](src/main/java/com/zilaidawwab/javalang/basics/iterationstatements/TypeInferenceinFor.java)
+
+### Jump Statements
+Java supports three jump statements: break, continue, and return. These statements transfer control to another part of your program.
+
+#### Break
+- [Break Statement](src/main/java/com/zilaidawwab/javalang/basics/jumpstatements/Break.java)
+
+#### Continue
+- [Continue Statement](src/main/java/com/zilaidawwab/javalang/basics/jumpstatements/Continue.java)
+
+#### Return
+- [Return Statement](src/main/java/com/zilaidawwab/javalang/basics/jumpstatements/Return.java)
