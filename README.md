@@ -144,3 +144,13 @@ Java supports three jump statements: break, continue, and return. These statemen
 
 #### Return
 - [Return Statement](src/main/java/com/zilaidawwab/javalang/basics/jumpstatements/Return.java)
+
+## Classes
+
+### Class Fundamentals
+A Class is at the core of Java, it defines the shape and nature of an object. A class is a template for an object and object is an instance of a class.
+
+#### Simple Class
+- [Class Creation](src/main/java/com/zilaidawwab/javalang/classes/fundamentals/Box.java)
+- [Class Utilization](src/main/java/com/zilaidawwab/javalang/classes/fundamentals/BoxDemo.java)
+- [Object Reference](src/main/java/com/zilaidawwab/javalang/classes/fundamentals/ObjectReference.java)
