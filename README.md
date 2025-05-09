@@ -151,6 +151,7 @@ Java supports three jump statements: break, continue, and return. These statemen
 A Class is at the core of Java, it defines the shape and nature of an object. A class is a template for an object and object is an instance of a class.
 
 #### Simple Class
+Here instance variable, methods (empty and parameterized), constructors (empty and parameterized), and "this" keyword are covered.
 - [Class Creation](src/main/java/com/zilaidawwab/javalang/classes/fundamentals/Box.java)
 - [Class Utilization](src/main/java/com/zilaidawwab/javalang/classes/fundamentals/BoxDemo.java)
 - [Object Reference](src/main/java/com/zilaidawwab/javalang/classes/fundamentals/ObjectReference.java)
