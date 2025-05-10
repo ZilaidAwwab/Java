@@ -155,3 +155,7 @@ Here instance variable, methods (empty and parameterized), constructors (empty a
 - [Class Creation](src/main/java/com/zilaidawwab/javalang/classes/fundamentals/Box.java)
 - [Class Utilization](src/main/java/com/zilaidawwab/javalang/classes/fundamentals/BoxDemo.java)
 - [Object Reference](src/main/java/com/zilaidawwab/javalang/classes/fundamentals/ObjectReference.java)
+
+#### Class Example
+- [Stack Class](src/main/java/com/zilaidawwab/javalang/classes/example/Stack.java)
+- [Stack Class Utilization](src/main/java/com/zilaidawwab/javalang/classes/example/StackUsage.java)
