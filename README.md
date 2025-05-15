@@ -167,3 +167,7 @@ Here instance variable, methods (empty and parameterized), constructors (empty a
 #### Constructor Overloading
 - [Constructor Overloaded Class](src/main/java/com/zilaidawwab/javalang/classes/constructoroverload/BoxConstructorOverload.java)
 - [Constructor Overloaded Utilization](src/main/java/com/zilaidawwab/javalang/classes/constructoroverload/BoxConstructorOverloadUtil.java)
+
+#### Objects as Parameters
+- [Object Param](src/main/java/com/zilaidawwab/javalang/classes/objectsasparams/Test.java)
+- [Object Param Utilization](src/main/java/com/zilaidawwab/javalang/classes/objectsasparams/PassOb.java)
