@@ -171,3 +171,9 @@ Here instance variable, methods (empty and parameterized), constructors (empty a
 #### Objects as Parameters
 - [Object Param](src/main/java/com/zilaidawwab/javalang/classes/objectsasparams/Test.java)
 - [Object Param Utilization](src/main/java/com/zilaidawwab/javalang/classes/objectsasparams/PassOb.java)
+
+#### Argument Passing
+
+##### Pass by Value
+- [Sample Class](src/main/java/com/zilaidawwab/javalang/classes/passbyvalue/Test.java)
+- [Call By Value Class](src/main/java/com/zilaidawwab/javalang/classes/passbyvalue/CallByValue.java)
