@@ -177,3 +177,7 @@ Here instance variable, methods (empty and parameterized), constructors (empty a
 ##### Pass by Value
 - [Sample Class](src/main/java/com/zilaidawwab/javalang/classes/passbyvalue/Test.java)
 - [Call By Value Class](src/main/java/com/zilaidawwab/javalang/classes/passbyvalue/CallByValue.java)
+
+##### Pass by Reference
+- [Sample Class](src/main/java/com/zilaidawwab/javalang/classes/passbyreference/Test.java)
+- [Call by Reference Class](src/main/java/com/zilaidawwab/javalang/classes/passbyreference/CallByReference.java)
