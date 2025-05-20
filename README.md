@@ -185,3 +185,8 @@ Here instance variable, methods (empty and parameterized), constructors (empty a
 #### Returning Object
 - [Sample Class](src/main/java/com/zilaidawwab/javalang/classes/returningobjects/Test.java)
 - [Object Return Demonstration Class](src/main/java/com/zilaidawwab/javalang/classes/returningobjects/ReturnObj.java)
+
+#### Recursion
+- [Sample Class](src/main/java/com/zilaidawwab/javalang/classes/recursion/Factorial.java)
+- [Class Utilizing Recursion](src/main/java/com/zilaidawwab/javalang/classes/recursion/Recursion.java)
+- [Recursion Example](src/main/java/com/zilaidawwab/javalang/classes/recursion/RecursionEx.java)
