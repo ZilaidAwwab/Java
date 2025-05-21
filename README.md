@@ -190,3 +190,7 @@ Here instance variable, methods (empty and parameterized), constructors (empty a
 - [Sample Class](src/main/java/com/zilaidawwab/javalang/classes/recursion/Factorial.java)
 - [Class Utilizing Recursion](src/main/java/com/zilaidawwab/javalang/classes/recursion/Recursion.java)
 - [Recursion Example](src/main/java/com/zilaidawwab/javalang/classes/recursion/RecursionEx.java)
+
+#### Access Modifiers
+- [Public and Private Modifiers](src/main/java/com/zilaidawwab/javalang/classes/accessmodifiers/Test.java)
+- [Testing public and private](src/main/java/com/zilaidawwab/javalang/classes/accessmodifiers/AccessTest.java)
