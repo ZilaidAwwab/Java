@@ -194,3 +194,7 @@ Here instance variable, methods (empty and parameterized), constructors (empty a
 #### Access Modifiers
 - [Public and Private Modifiers](src/main/java/com/zilaidawwab/javalang/classes/accessmodifiers/Test.java)
 - [Testing public and private](src/main/java/com/zilaidawwab/javalang/classes/accessmodifiers/AccessTest.java)
+
+#### Static Keyword
+- [Static Variables, Methods and Blocks](src/main/java/com/zilaidawwab/javalang/classes/statickeyword/UseStatic.java)
+- [Using Static Methods and Vars outside the Class](src/main/java/com/zilaidawwab/javalang/classes/statickeyword/UseStaticOutside.java)
