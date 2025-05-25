@@ -205,3 +205,8 @@ Here instance variable, methods (empty and parameterized), constructors (empty a
 #### Nested and Inner Classes
 - [Nested Inner Class](src/main/java/com/zilaidawwab/javalang/classes/nestedclasses/Outer.java)
 - [Inner Class Usages](src/main/java/com/zilaidawwab/javalang/classes/nestedclasses/InnerUse.java)
+
+#### Varargs (Variable Number of Arguments)
+- [Varargs (Old Approach)](src/main/java/com/zilaidawwab/javalang/classes/variableargs/Varargs.java)
+- [Varargs (New Approach)](src/main/java/com/zilaidawwab/javalang/classes/variableargs/VarargsNew.java)
+- [Varargs Method Overloading](src/main/java/com/zilaidawwab/javalang/classes/variableargs/VarargsOverload.java)
