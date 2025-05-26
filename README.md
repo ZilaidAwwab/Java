@@ -201,3 +201,7 @@ Here instance variable, methods (empty and parameterized), constructors (empty a
 
 #### Final Keyword
 - [Final Keyword](src/main/java/com/zilaidawwab/javalang/classes/finalkeyword/UseFinal.java)
+
+#### Nested and Inner Classes
+- [Nested Inner Class](src/main/java/com/zilaidawwab/javalang/classes/nestedclasses/Outer.java)
+- [Inner Class Usages](src/main/java/com/zilaidawwab/javalang/classes/nestedclasses/InnerUse.java)
