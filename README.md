@@ -210,3 +210,6 @@ Here instance variable, methods (empty and parameterized), constructors (empty a
 - [Varargs (Old Approach)](src/main/java/com/zilaidawwab/javalang/classes/variableargs/Varargs.java)
 - [Varargs (New Approach)](src/main/java/com/zilaidawwab/javalang/classes/variableargs/VarargsNew.java)
 - [Varargs Method Overloading](src/main/java/com/zilaidawwab/javalang/classes/variableargs/VarargsOverload.java)
+
+#### Local Variable Type Inferences with Reference Types
+- [Type Inference on User-defined Clas](src/main/java/com/zilaidawwab/javalang/classes/typeinference/MyClass.java)
