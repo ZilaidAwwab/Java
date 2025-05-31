@@ -26,7 +26,7 @@ public class VarargsNew {
 // v in vaTest() is treated as an array, because it is an array
 
 /**
- * A method can have “normal” parameters along with a variable-length parameter. However, the
+ * A method can have "normal" parameters along with a variable-length parameter. However, the
  * variable-length parameter must be the last parameter declared by the method, for example
  * int doit(int a, int b, int c, int ...z) {}
  *

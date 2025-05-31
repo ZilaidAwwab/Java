@@ -213,3 +213,11 @@ Here instance variable, methods (empty and parameterized), constructors (empty a
 
 #### Local Variable Type Inferences with Reference Types
 - [Type Inference on User-defined Clas](src/main/java/com/zilaidawwab/javalang/classes/typeinference/MyClass.java)
+
+### Inheritance
+Inheritance is one of the cornerstones of object-oriented programming because it allows the creation of hierarchical classifications.
+
+#### Simple Inheritance Example
+- [Inherited Class (Super Class)](src/main/java/com/zilaidawwab/javalang/inheritance/simple/A.java)
+- [Inheriting Class (Sub Class)](src/main/java/com/zilaidawwab/javalang/inheritance/simple/B.java)
+- [Inheritance Utilization](src/main/java/com/zilaidawwab/javalang/inheritance/simple/SimpleInheritance.java)
