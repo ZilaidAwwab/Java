@@ -221,3 +221,7 @@ Inheritance is one of the cornerstones of object-oriented programming because it
 - [Inherited Class (Super Class)](src/main/java/com/zilaidawwab/javalang/inheritance/simple/A.java)
 - [Inheriting Class (Sub Class)](src/main/java/com/zilaidawwab/javalang/inheritance/simple/B.java)
 - [Inheritance Utilization](src/main/java/com/zilaidawwab/javalang/inheritance/simple/SimpleInheritance.java)
+
+#### Super Constructor Example
+- [Super Class](src/main/java/com/zilaidawwab/javalang/inheritance/supercons/Box.java)
+- [Sub Class](src/main/java/com/zilaidawwab/javalang/inheritance/supercons/BoxWeight.java)
