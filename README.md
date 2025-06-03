@@ -225,3 +225,9 @@ Inheritance is one of the cornerstones of object-oriented programming because it
 #### Super Constructor Example
 - [Super Class](src/main/java/com/zilaidawwab/javalang/inheritance/supercons/Box.java)
 - [Sub Class](src/main/java/com/zilaidawwab/javalang/inheritance/supercons/BoxWeight.java)
+
+#### Multi-level Hierarchy
+- [First Layer](src/main/java/com/zilaidawwab/javalang/inheritance/multilevelhierarchy/Box.java)
+- [Second Layer](src/main/java/com/zilaidawwab/javalang/inheritance/multilevelhierarchy/BoxWeight.java)
+- [Third Layer](src/main/java/com/zilaidawwab/javalang/inheritance/multilevelhierarchy/Shipment.java)
+- [Implementation Class](src/main/java/com/zilaidawwab/javalang/inheritance/multilevelhierarchy/DemoShipment.java)
