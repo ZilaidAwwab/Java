@@ -231,3 +231,7 @@ Inheritance is one of the cornerstones of object-oriented programming because it
 - [Second Layer](src/main/java/com/zilaidawwab/javalang/inheritance/multilevelhierarchy/BoxWeight.java)
 - [Third Layer](src/main/java/com/zilaidawwab/javalang/inheritance/multilevelhierarchy/Shipment.java)
 - [Implementation Class](src/main/java/com/zilaidawwab/javalang/inheritance/multilevelhierarchy/DemoShipment.java)
+
+#### Method Overriding
+- [Parent Class](src/main/java/com/zilaidawwab/javalang/inheritance/methodoverriding/A.java)
+- [Child Class](src/main/java/com/zilaidawwab/javalang/inheritance/methodoverriding/B.java)
