@@ -235,3 +235,12 @@ Inheritance is one of the cornerstones of object-oriented programming because it
 #### Method Overriding
 - [Parent Class](src/main/java/com/zilaidawwab/javalang/inheritance/methodoverriding/A.java)
 - [Child Class](src/main/java/com/zilaidawwab/javalang/inheritance/methodoverriding/B.java)
+
+#### Dynamic Method Dispatch
+Dynamic method dispatch is the mechanism by which a call to an overridden method is resolved at run time, rather than compile time. Dynamic method dispatch is important because this is how Java implements run-time polymorphism.
+
+##### Example
+- [Super Class](src/main/java/com/zilaidawwab/javalang/inheritance/dynamicmethoddispatch/Figure.java)
+- [Sub Class](src/main/java/com/zilaidawwab/javalang/inheritance/dynamicmethoddispatch/Rectangle.java)
+- [Sub Class](src/main/java/com/zilaidawwab/javalang/inheritance/dynamicmethoddispatch/Triangle.java)
+- [Utilization Class](src/main/java/com/zilaidawwab/javalang/inheritance/dynamicmethoddispatch/FindAreas.java)
