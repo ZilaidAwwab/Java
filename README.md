@@ -244,3 +244,8 @@ Dynamic method dispatch is the mechanism by which a call to an overridden method
 - [Sub Class](src/main/java/com/zilaidawwab/javalang/inheritance/dynamicmethoddispatch/Rectangle.java)
 - [Sub Class](src/main/java/com/zilaidawwab/javalang/inheritance/dynamicmethoddispatch/Triangle.java)
 - [Utilization Class](src/main/java/com/zilaidawwab/javalang/inheritance/dynamicmethoddispatch/FindAreas.java)
+
+#### Abstract Class
+- [Abstract Class Demo](src/main/java/com/zilaidawwab/javalang/inheritance/abstractclass/A.java)
+- [Inheriting Abstract Class](src/main/java/com/zilaidawwab/javalang/inheritance/abstractclass/B.java)
+- [Util Class](src/main/java/com/zilaidawwab/javalang/inheritance/abstractclass/AbstractDemo.java)
