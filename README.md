@@ -40,12 +40,12 @@ The Basic Hello World Program, as a religious practice to start learning any pro
 - [Hello World](src/main/java/com/zilaidawwab/javalang/basics/helloworld/HelloWorld.java)
 
 ### Variables
-Java is a stronly typed language, so every variable has to be on some primitive or user defined data type
+Java is a strongly typed language, so every variable has to be on some primitive or user defined data type
 
 - [Variables](src/main/java/com/zilaidawwab/javalang/basics/variables/Variables.java)
 
 ### Primitive Data Types
-There are 8 primitive data types in java language. Namely byte, short, int, long, float, double, char, and boolean
+There are 8 primitive data types in java language. Namely, byte, short, int, long, float, double, char, and boolean
 
 - [Long Data Type](src/main/java/com/zilaidawwab/javalang/basics/datatypes/LongDataType.java)
 - [Double Data Type](src/main/java/com/zilaidawwab/javalang/basics/datatypes/DoubleDataType.java)
@@ -92,7 +92,7 @@ This covers all the operators available in Java, including Arithmetic, Bitwise, 
 - [Right Shift](src/main/java/com/zilaidawwab/javalang/basics/operators/bitwise/RightShift.java)
 - [HexByte (Masking Sign Extension)](src/main/java/com/zilaidawwab/javalang/basics/operators/bitwise/HexByte.java)
 - [Unsigned Shift (Right Shift Extension)](src/main/java/com/zilaidawwab/javalang/basics/operators/bitwise/ByteUnShift.java)
-- [Compound Assigment (In Bitwise Operators)](src/main/java/com/zilaidawwab/javalang/basics/operators/bitwise/OpBitEquals.java)
+- [Compound Assignment (In Bitwise Operators)](src/main/java/com/zilaidawwab/javalang/basics/operators/bitwise/OpBitEquals.java)
 
 #### Relational Operator
 - [Relational Operator](src/main/java/com/zilaidawwab/javalang/basics/operators/relational/RelationalOps.java)
@@ -131,7 +131,7 @@ Java’s iteration statements are for, for-each, while, and do-while. These stat
 #### For-Each
 - [For Each Loop](src/main/java/com/zilaidawwab/javalang/basics/iterationstatements/ForEachLoop.java)
 - [For Each Loop (For Multi-dimensional Arrays)](src/main/java/com/zilaidawwab/javalang/basics/iterationstatements/ForEachLoopMultiDim.java)
-- [Type Inference in For](src/main/java/com/zilaidawwab/javalang/basics/iterationstatements/TypeInferenceinFor.java)
+- [Type Inference in For](src/main/java/com/zilaidawwab/javalang/basics/iterationstatements/TypeInferenceInFor.java)
 
 ### Jump Statements
 Java supports three jump statements: break, continue, and return. These statements transfer control to another part of your program.
@@ -248,4 +248,14 @@ Dynamic method dispatch is the mechanism by which a call to an overridden method
 #### Abstract Class
 - [Abstract Class Demo](src/main/java/com/zilaidawwab/javalang/inheritance/abstractclass/A.java)
 - [Inheriting Abstract Class](src/main/java/com/zilaidawwab/javalang/inheritance/abstractclass/B.java)
-- [Util Class](src/main/java/com/zilaidawwab/javalang/inheritance/abstractclass/AbstractDemo.java)
+
+#### Final Keyword
+It has 3 uses. First is that it can be used to create equivalent of a named constant. The other two uses apply to inheritance (Discussed here).
+
+##### Final Keyword with Methods (Overridden)
+- [Parent Class](src/main/java/com/zilaidawwab/javalang/inheritance/finalkeyword/methodoverriding/A.java)
+- [Child Class](src/main/java/com/zilaidawwab/javalang/inheritance/finalkeyword/methodoverriding/B.java)
+
+##### Final Keyword to prevent inheritance
+- [Parent Class](src/main/java/com/zilaidawwab/javalang/inheritance/finalkeyword/withclass/A.java)
+- [Child Class](src/main/java/com/zilaidawwab/javalang/inheritance/finalkeyword/withclass/B.java)
